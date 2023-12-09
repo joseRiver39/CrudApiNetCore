@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cTfUkxNlTVzdXrWxBVJgHa17CuJU92vtwCFQEjD2uYQ=",
+  "Source": "pruebaMysql",
+  "BasePath": "_content/pruebaMysql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@pruebaMysql_HostAddress = http://localhost:5032
+
+GET {{pruebaMysql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
